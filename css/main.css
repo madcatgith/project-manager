@@ -1,0 +1,54 @@
+body{
+
+}
+
+a{
+	word-wrap: break-word;
+}
+
+.container{
+	text-align: center;
+}
+
+.row{
+	margin-top: 20px;
+}
+
+.url{
+	font-size: 20px;
+}
+
+.copy{
+	cursor:pointer;
+	color:black;
+	text-decoration: none;
+	font-size: 15px;
+}
+
+.copy:hover{
+	text-decoration: none;
+	color:#337ab7;
+}
+
+#edit, #login{
+	margin-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#login{
+	display: none;
+}
+
+#sorter{
+	text-decoration: none;
+	color:black;
+}
+
+#sorter:hover{
+	color:#286090;
+}
+
+#total{
+	font-size: 20px;
+}
